@@ -9,7 +9,8 @@ I used spark ar to make this filter and I used a free to use 3d tesseract cube m
 ## Challenges I ran into
 The main challenge was to make a script that runs all the stuff which i wanted to cover using this filter, i user youtube videos to guide me thorugh the challenges and the project completed successfully. This was my first hackathon and i am a solo participant so I had to figure out my mistakes and make my own way around the bugs and challenges.
 ## Accomplishments that I'm proud of
-
+I happy that I could ccomplete this challenge, and completed this in time.
 ## What I learned
-
+I learned how to keep the size small for uploading the filter.
 ## What's next for Floating Tesseract
+Gonna make it more realistic, but might need sone help. Get in touch if you want to help me out! It will be epic!!!
