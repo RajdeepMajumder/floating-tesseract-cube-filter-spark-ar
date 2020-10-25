@@ -13,4 +13,4 @@ I happy that I could ccomplete this challenge, and completed this in time.
 ## What I learned
 I learned how to keep the size small for uploading the filter.
 ## What's next for Floating Tesseract
-Gonna make it more realistic, but might need sone help. Get in touch if you want to help me out! It will be epic!!!
+Gonna make it more realistic, but might need some help. Get in touch if you want to help me out! It will be epic!!!
